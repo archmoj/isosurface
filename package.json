@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "3D isosurface polygonizer",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/mikolalysenko/isosurface.git"
